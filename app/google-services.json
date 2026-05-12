@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32091740363",
+    "project_id": "lap7-fbd3c",
+    "storage_bucket": "lap7-fbd3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32091740363:android:bcc90a1386bbf8ce51634e",
+        "android_client_info": {
+          "package_name": "com.example.lap7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfAmGqbnbtuPVcs6M2Fm3NPoFIkxNyiuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
