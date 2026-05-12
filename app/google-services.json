@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237859797055",
+    "project_id": "lap8-24311",
+    "storage_bucket": "lap8-24311.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237859797055:android:f8d398462f9dca3f09208a",
+        "android_client_info": {
+          "package_name": "com.example.lap8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlj81fq2fXIpApVA18trxUbG5xjd-ExmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
